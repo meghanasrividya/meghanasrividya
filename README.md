@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Meghana Aenugu! 👋  
 
-<!--
-**meghanasrividya/meghanasrividya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Full Stack Developer**  
+💡 Passionate about building dynamic web applications &automting cloud deployments
 
-Here are some ideas to get you started:
+🔭 Currently working on: **React & Django Projects**  
+🌱 Learning: **AWS, Terraform, Kubernetes, Docker, CI/CD**  
+📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/meghana-aenugu-8896968/)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+🔹 **Programming:** Python, JavaScript  
+🔹 **Frontend:** React, HTML, CSS  
+🔹 **Backend:** Django, Node.js  
+🔹 **DevOps:** AWS, Docker, Kubernetes, Terraform  
+🔹 **Version Control:** Git, GitHub  
+
+✨ _"Passionate about learning, building, and automating everything!"_  
