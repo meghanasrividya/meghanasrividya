@@ -5,7 +5,7 @@
 
 🔭 Currently working on: **React & Django Projects**  
 🌱 Learning: **AWS, Terraform, Kubernetes, Docker, CI/CD**  
-📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/meghana-aenugu-8896968/)**  
+📫 Reach me at: **[Linked In](https://www.linkedin.com/in/meghana-aenugu-88969689)**  
 
 ## 🛠️ Tech Stack  
 🔹 **Programming:** Python, JavaScript  
