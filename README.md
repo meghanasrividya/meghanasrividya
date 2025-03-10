@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack  
 🔹 **Programming:** Python, JavaScript  
 🔹 **Frontend:** React, HTML, CSS  
-🔹 **Backend:** Django, Node.js  
+🔹 **Backend:** Node.js  
 🔹 **DevOps:** AWS, Docker, Kubernetes, Terraform  
 🔹 **Version Control:** Git, GitHub  
 
