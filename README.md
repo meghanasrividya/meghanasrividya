@@ -3,7 +3,7 @@
 🚀 **DevOps Engineer | Full Stack Developer**  
 💡 Passionate about building dynamic web applications &automting cloud deployments
 
-🔭 Currently working on: **React & Django Projects**  
+🔭 Currently working on: **React Projects**  
 🌱 Learning: **AWS, Terraform, Kubernetes, Docker, CI/CD**  
 📫 Reach me at: **[Linked In](https://www.linkedin.com/in/meghana-aenugu-88969689)**  
 
